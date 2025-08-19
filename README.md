@@ -1,4 +1,6 @@
 # SDON
-生存性和时延约束的软件定义光网络
-SDON利用了多条无环链路来联合计算网络故障率，大大提升了网络生存性。结合时延约束，选出最适合的控制器部署节点。
-paper_3 是本文SDON的算法，paper_1/2/4的算法用来对比效果
+The survivability- and latency-constrained software-defined optical network (SDON) makes use of multiple loop-free paths to jointly calculate network failure probability, which greatly improves the network’s survivability.
+
+Taking latency constraints into account, the most suitable controller deployment node is selected. 
+
+Paper_3 refers to the algorithm proposed in this work for SDON, and the algorithms of paper_1/2/4 are used for comparison.
